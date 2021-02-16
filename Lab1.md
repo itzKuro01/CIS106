@@ -86,9 +86,9 @@ Now that you know how to use Distrowatch. Find a Linux distribution for the foll
 * Desktop Environment: **Awesome, Enlightenment, Fluxbox, GNOME, i3, IceWM, KDE Plasma, Ratpoison, Xfce**
 
 1. A Linux distribution that supports the OEM installation method
-* Distro Name: **Type your answer here**
-* Website: **Type your answer here**
-* Desktop Environment: **Type your answer here**
+* Distro Name: **Ubuntu**
+* Website: **https://www.ubuntu.com/**
+* Desktop Environment: **armhf, i686, powerpc, ppc64el, s390x, x86_64**
 
 ### Question 5 (Extra credit 2 pts - Optional)
 On the Distrowatch homepage in the menu located in the middle of the page, you will find an option called **“Submit Distribution”.** This option lists all the Linux distros that are pending evaluation, on development or that are experiencing some sort of legal constraint.  Select one of these distributions and in a paragraph, share your thoughts. (keep it simple 5 to 8 sentences).
@@ -110,9 +110,4 @@ Stop the machine and take a screenshot of the browser window showing that the ma
 ![image3](image3.png)
 
 
----
-# What to submit? (Delete this section before submitting)
-* Submit the URL of this file in your Github repository. 
-* Convert this markdown file as PDF and submit it in with the URL.
-* Each submission is worth 50 Points. If you only submit 1 you will get half the grade.
 ---
