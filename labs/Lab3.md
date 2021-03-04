@@ -11,9 +11,14 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
  
 
 ## Question 2
-
+![question 2 answer](../lab3/lab3Q2.PNG)
+![question 2 answer](../lab3/lab3Q2.5.PNG)
 ## Question 3
-
+![question 3 answer](../lab3/lab3Q3.png)
 ## Question 4
-
+![question 4 answer](../lab3/lab3Q4.png)
+![question 4 answer](../lab3/lab3Q4.5.png)
 ## Question 5
+![question 5 answer](../lab3/lab3Q5.5.png)
+![question 5 answer](../lab3/lab3Q5exa.png)
+![question 5 answer](../lab3/lab3Q5exa1.png)
